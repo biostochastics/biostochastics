@@ -20,8 +20,20 @@ Currently focused on neurodegenerative diseases (ALS, Alzheimer's, Parkinson's/L
 
 ---
 
-### Technical Expertise
+![Proteomics](https://img.shields.io/badge/Proteomics-FF4500?style=flat-square&logoColor=white)
+![Transcriptomics](https://img.shields.io/badge/Transcriptomics-9370DB?style=flat-square&logoColor=white)
+![Metabolomics](https://img.shields.io/badge/Metabolomics-32CD32?style=flat-square&logoColor=white)
+![Genomics and NGS](https://img.shields.io/badge/Genomics-4169E1?style=flat-square&logoColor=white)
+![scRNA--seq](https://img.shields.io/badge/scRNA--seq-8A2BE2?style=flat-square&logoColor=white)
+![Spatial Omics](https://img.shields.io/badge/Spatial%20Omics-20B2AA?style=flat-square&logoColor=white)
+![Multi--Omic Integration](https://img.shields.io/badge/Multi--Omic%20Integration-CD853F?style=flat-square&logoColor=white)
+![Biomarker Discovery](https://img.shields.io/badge/Biomarker%20Discovery-B22222?style=flat-square&logoColor=white)
+![WGCNA](https://img.shields.io/badge/WGCNA-4682B4?style=flat-square&logoColor=white)
+![MEGENA](https://img.shields.io/badge/MEGENA-6495ED?style=flat-square&logoColor=white)
+![Olink PEA](https://img.shields.io/badge/Olink%20PEA-7B68EE?style=flat-square&logoColor=white)
+![SomaScan](https://img.shields.io/badge/SomaScan-483D8B?style=flat-square&logoColor=white)
 
+### Technical Expertise
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
