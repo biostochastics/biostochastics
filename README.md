@@ -19,19 +19,46 @@ Translational scientist with 10+ years of experience bridging computational appr
 Currently focused on neurodegenerative diseases (ALS, Alzheimer's, Parkinson's/LBD, MS) with extensive experience leading cross-functional teams through innovative projects in collaboration with industry partners.
 
 ---
+### Neuroscience & Clinical Research Expertise
+
+![EEG](https://img.shields.io/badge/EEG-5F9EA0?style=flat-square&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP-4682B4?style=flat-square&logoColor=white)
+![MRI](https://img.shields.io/badge/MRI-00008B?style=flat-square&logoColor=white)
+![Eye Movements](https://img.shields.io/badge/Eye%20Movements-2E8B57?style=flat-square&logoColor=white)
+![Cognitive Neuroscience](https://img.shields.io/badge/Cognitive%20Neuroscience-9932CC?style=flat-square&logoColor=white)
+![Developmental Science](https://img.shields.io/badge/Developmental%20Science-FF8C00?style=flat-square&logoColor=white)
+![Psychometrics](https://img.shields.io/badge/Psychometrics-BA55D3?style=flat-square&logoColor=white)
+![Clinical Trials](https://img.shields.io/badge/Clinical%20Trials-DC143C?style=flat-square&logoColor=white)
+![Patient Stratification](https://img.shields.io/badge/Patient%20Stratification-8B4513?style=flat-square&logoColor=white)
+![Translational Medicine](https://img.shields.io/badge/Translational%20Medicine-228B22?style=flat-square&logoColor=white)
+![Target Identification](https://img.shields.io/badge/Target%20Identification-FF6347?style=flat-square&logoColor=white)
+
+### Omics & Systems Biology Expertise
 
 ![Proteomics](https://img.shields.io/badge/Proteomics-FF4500?style=flat-square&logoColor=white)
 ![Transcriptomics](https://img.shields.io/badge/Transcriptomics-9370DB?style=flat-square&logoColor=white)
 ![Metabolomics](https://img.shields.io/badge/Metabolomics-32CD32?style=flat-square&logoColor=white)
-![Genomics and NGS](https://img.shields.io/badge/Genomics-4169E1?style=flat-square&logoColor=white)
+![Genomics](https://img.shields.io/badge/Genomics-4169E1?style=flat-square&logoColor=white)
 ![scRNA--seq](https://img.shields.io/badge/scRNA--seq-8A2BE2?style=flat-square&logoColor=white)
 ![Spatial Omics](https://img.shields.io/badge/Spatial%20Omics-20B2AA?style=flat-square&logoColor=white)
 ![Multi--Omic Integration](https://img.shields.io/badge/Multi--Omic%20Integration-CD853F?style=flat-square&logoColor=white)
+![Systems Biology](https://img.shields.io/badge/Systems%20Biology-008080?style=flat-square&logoColor=white)
 ![Biomarker Discovery](https://img.shields.io/badge/Biomarker%20Discovery-B22222?style=flat-square&logoColor=white)
 ![WGCNA](https://img.shields.io/badge/WGCNA-4682B4?style=flat-square&logoColor=white)
 ![MEGENA](https://img.shields.io/badge/MEGENA-6495ED?style=flat-square&logoColor=white)
 ![Olink PEA](https://img.shields.io/badge/Olink%20PEA-7B68EE?style=flat-square&logoColor=white)
 ![SomaScan](https://img.shields.io/badge/SomaScan-483D8B?style=flat-square&logoColor=white)
+![PandaOmics](https://img.shields.io/badge/PandaOmics-FFA500?style=flat-square&logoColor=white)
+
+### Statistical & Machine Learning Methods
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=flat-square&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-9400D3?style=flat-square&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-8B008B?style=flat-square&logoColor=white)
+![Structural Equation Modeling](https://img.shields.io/badge/Structural%20Equation%20Modeling-DA70D6?style=flat-square&logoColor=white)
+![GLMM](https://img.shields.io/badge/GLMM-9370DB?style=flat-square&logoColor=white)
+![Research Synthesis](https://img.shields.io/badge/Research%20Synthesis-8A2BE2?style=flat-square&logoColor=white)
+![Network Analysis](https://img.shields.io/badge/Network%20Analysis-4B0082?style=flat-square&logoColor=white)
 
 ### Technical Expertise
 
