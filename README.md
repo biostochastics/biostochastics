@@ -9,7 +9,7 @@
 
 ### About Me
 
-Translational scientist with 15+ years of experience bridging computational approaches with deep biological understanding to accelerate therapeutic development. I specialize in:
+Translational scientist with 10+ years of experience bridging computational approaches with deep biological understanding to accelerate therapeutic development. I specialize in:
 
 - Integrating multi-modal and multi-omic data (proteomics, transcriptomics, metabolomics)
 - Developing and validating biomarkers for neurological conditions
