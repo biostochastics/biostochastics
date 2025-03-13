@@ -1,4 +1,4 @@
-# Dr. Sergey Kornilov
+# Sergey Kornilov
 
 ## Translational Neuroscience | Drug and Biomarker Discovery | Computational Biology 
 
@@ -17,25 +17,6 @@ Translational scientist with 10+ years of experience bridging computational appr
 - Designing and implementing translational strategies for drug development
 
 Currently focused on neurodegenerative diseases (ALS, Alzheimer's, Parkinson's/LBD, MS) with extensive experience leading cross-functional teams through innovative projects in collaboration with industry partners.
-
----
-
-### Featured Repositories
-
-#### Translational Science & Drug Development Tools
-
-- [**DoseFinder**](https://github.com/biostochastics/DoseFinder): Simple allosteric scaling calculator for pharmacological dose finding
-- [**Pharmacodynamic Biomarker Framework**](https://github.com/biostochastics/PD-biomarker-framework): Tools for characterizing target engagement and mechanism biomarkers in early clinical development *(coming soon)*
-
-#### Computational Biology & Statistics
-
-- [**qiprng**](https://github.com/biostochastics/qiprng): High-precision, configurable pseudo-random number generator based on quadratic irrational numbers with optional cryptographic mixing in R
-- [**minoRityPower**](https://github.com/biostochastics/minoRityPower): R package for estimating statistical power in evaluating healthcare system-level interventions designed to accelerate clinical trial enrollment among minority participants
-
-#### Data Science & AI Integration
-
-- [**AgenticLLM-NLP**](https://github.com/biostochastics/AgenticLLM-NLP): Google Colab notebook exploring instructed LLMs as trained rater agents for NLP and semantic processing in mixed methods research
-- [**CodeConCat**](https://github.com/biostochastics/CodeConCat): A CLI tool that parses a local or GitHub repo and concatenates annotated code into a separate file for LLM analysis
 
 ---
 
