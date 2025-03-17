@@ -120,8 +120,9 @@ Currently focused on neurodegenerative diseases (ALS, Alzheimer's, Parkinson's/L
 ### Research Focus Areas
 
 - **Neurodegenerative Diseases**: ALS, Alzheimer's, Parkinson's/LBD, Multiple Sclerosis
+- **Neuropsychiatric Diseases**: Depression, GAD, Substance abuse
 - **Multi-Omic Integration**: Network-based approaches, WGCNA, MEGENA
-- **Biomarker Discovery**: Target engagement, patient stratification, disease progression
+- **Biomarker Discovery**: Target engagement, pharmacodynamics, patient stratification, disease progression
 - **Translational Strategy**: Bridging preclinical findings to clinical applications
 - **Advanced Analytics**: Machine learning, causal inference, longitudinal modeling
 
