@@ -130,9 +130,11 @@ Currently focused on metabolic syndrome, neurodegenerative diseases (ALS, Alzhei
 
 ### Professional Background
 
-- Founder & Translational Scientist, Biostochastics, LLC
-- Former Senior Research Scientist, Institute for Systems Biology
-- Former Statistical Geneticist, Arivale
+- Founder & Translational Scientist, Biostochastics LLC
+  -   Former Senior Research Scientist, Institute for Systems Biology
+  -   Former Statistical Geneticist, Arivale Inc
+  -   Former Research Scientist, Saint-Petersburg State University
+  -   Former Research Assistant Professor, University of Houston
 - Duncan Scholar in Human and Molecular Genetics, Baylor College of Medicine
 - Postdoctoral Associate, Yale University School of Medicine
 - PhD, Experimental Psychology, University of Connecticut
