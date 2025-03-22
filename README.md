@@ -156,7 +156,7 @@ Feel free to reach out if you're working in these areas or have ideas for potent
 
 ### Publications
 
-For a complete list of my 65+ peer-reviewed publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=YOUR_ID) or connect with me on [LinkedIn](https://www.linkedin.com/in/sergey-kornilov/).
+For a complete list of my 65+ peer-reviewed publications, please visit my [Google Scholar profile](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://scholar.google.com/citations%3Fuser%3DxmwBz9EAAAAJ%26hl%3Den&ved=2ahUKEwjF9qT3xZyMAxVfDTQIHUsWJTYQFnoECBcQAQ&usg=AOvVaw08HHM9qo7JYSpGC5M7-g8h) or connect with me on [LinkedIn](https://www.linkedin.com/in/sergey-kornilov/).
 
 Select publications:
 - Kornilov, S., Price, N., Gelinas, R., ... & Magis, A. (2024). Multi-Omic characterization of the effects of Ocrelizumab in patients with relapsing-remitting multiple sclerosis. Journal of the Neurological Sciences, 467, 123303, 10.1016/j.jns.2024.123303
@@ -164,4 +164,5 @@ Select publications:
 - Kornilov, S., Lucas, ... & Magis, A. (2020). Plasma levels of soluble ACE2 are associated with sex, Metabolic Syndrome, and its biomarkers in a large cohort, pointing to a possible mechanism for increased severity in COVID-19. Critical Care, 24, 452, 10.1186/s13054-020-03141-9.
 - Kornilov, S., Zhukova, M., ... & Grigorenko, E.L. (2018). Language Outcomes in Adults with a History of Institutionalization: Behavioral and Neurophysiological Characterization. Scientific Reports, 9, 10.1038/s41598-019-40007-9
 - Kornilov, S., Rakhlin, N., ... & Grigorenko, E.L. (2016). Genome-Wide Association and Exome Sequencing Study of Language Disorder in an Isolated Population. Pediatrics, 137(4), 10.1542/peds.2015-2469
+- Kornilov, S., Tan, M., Aljughaiman, A., Naumova, O.Y., & Grigorenko, E.L. (2019). Genome-Wide Homozygosity Mapping Reveals Genes Associated With Cognitive Ability in Children From Saudi Arabia. Frontiers in Genetics, 10, 888. https://doi.org/10.3389/fgene.2019.00888
 
