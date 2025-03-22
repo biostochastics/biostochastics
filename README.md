@@ -17,7 +17,7 @@ Translational scientist with 10+ years of experience bridging computational appr
 - Applying advanced computational methods to complex biological problems
 - Designing and implementing translational strategies for drug development
 
-Currently focused on neurodegenerative diseases (ALS, Alzheimer's, Parkinson's/LBD, MS) with experience leading cross-functional teams through innovative projects in collaboration with industry partners.
+Currently focused on metabolic syndrome, neurodegenerative diseases (ALS, Alzheimer's, Parkinson's/LBD, MS) with experience leading cross-functional teams through innovative projects in collaboration with industry partners.
 
 ---
 ### Neuroscience & Clinical Research Expertise
@@ -164,5 +164,5 @@ Select publications:
 - Kornilov, S., Lucas, ... & Magis, A. (2020). Plasma levels of soluble ACE2 are associated with sex, Metabolic Syndrome, and its biomarkers in a large cohort, pointing to a possible mechanism for increased severity in COVID-19. Critical Care, 24, 452, 10.1186/s13054-020-03141-9.
 - Kornilov, S., Zhukova, M., ... & Grigorenko, E.L. (2018). Language Outcomes in Adults with a History of Institutionalization: Behavioral and Neurophysiological Characterization. Scientific Reports, 9, 10.1038/s41598-019-40007-9
 - Kornilov, S., Rakhlin, N., ... & Grigorenko, E.L. (2016). Genome-Wide Association and Exome Sequencing Study of Language Disorder in an Isolated Population. Pediatrics, 137(4), 10.1542/peds.2015-2469
-- Kornilov, S., Tan, M., Aljughaiman, A., Naumova, O.Y., & Grigorenko, E.L. (2019). Genome-Wide Homozygosity Mapping Reveals Genes Associated With Cognitive Ability in Children From Saudi Arabia. Frontiers in Genetics, 10, 888. https://doi.org/10.3389/fgene.2019.00888
+- Kornilov, S., Tan, M., Aljughaiman, A., Naumova, O.Y., & Grigorenko, E.L. (2019). Genome-Wide Homozygosity Mapping Reveals Genes Associated With Cognitive Ability in Children From Saudi Arabia. Frontiers in Genetics, 10, 888. 10.3389/fgene.2019.00888
 
