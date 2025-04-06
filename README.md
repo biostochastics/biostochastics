@@ -1,4 +1,4 @@
-# Hi, I'm Sergey! 
+# Dr. Sergey A. Kornilov
 
 ## Research & Development  | Translational Neuroscience | Drug and Biomarker Discovery | Computational Biology | Neurophysiology | Psychometrics | Statistics
 
