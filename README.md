@@ -1,6 +1,6 @@
 # Sergey Kornilov
 
-## Translational Neuroscience | Drug and Biomarker Discovery | Computational Biology 
+## Research & Development  | Translational Neuroscience | Drug and Biomarker Discovery | Computational Biology | Neurophysiology | Psychometrics | Statistics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kornilov/)
 [![Email](https://img.shields.io/badge/Email-sergey@kornilov.bio-00C300?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sergey@kornilov.bio)
