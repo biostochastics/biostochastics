@@ -1,4 +1,4 @@
-# Sergey Kornilov
+# Hi, I'm Sergey! 
 
 ## Research & Development  | Translational Neuroscience | Drug and Biomarker Discovery | Computational Biology | Neurophysiology | Psychometrics | Statistics
 
