@@ -1,6 +1,6 @@
 # Sergey A. Kornilov, PhD
 
-**Translational Neuroscience | Multi-Omics | Drug Discovery | Computational Biology**
+**Translational Science | Multi-Omics | Drug Discovery | Computational and Systems Biology | Machine Learning | Cognition | Neurodegeneration**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kornilov/)
 [![Email](https://img.shields.io/badge/Email-sergey@kornilov.bio-00C300?style=flat&logo=mail.ru&logoColor=white)](mailto:sergey@kornilov.bio)
@@ -10,7 +10,7 @@
 
 ## About
 
-Translational scientist bridging computational approaches with biological understanding to accelerate therapeutic development. Currently directing translational strategy for neurodegenerative disease technologies (ALS, Alzheimer's, PD/LBD, MS) with 10+ years experience in multi-omic integration, biomarker discovery, and clinical trial design.
+Translational scientist bridging computational approaches with biological understanding to accelerate therapeutic development. Currently directing translational strategy for neurodegenerative disease technologies (ALS, Alzheimer's, PD/LBD, MS) with 15+ years experience in research and industry-facing R&D, including multi-omic integration, biomarker discovery, and clinical trial design.
 
 **Current Focus:** Metabolic interventions in neurodegeneration | Multi-omic biomarker validation | Translational study design
 
@@ -19,20 +19,21 @@ Translational scientist bridging computational approaches with biological unders
 ## Core Expertise
 
 ### 🧬 Multi-Omics & Systems Biology
-- **Platforms:** Olink PEA, SomaScan, Metabolon, IonS5, Illumina
+- **Platforms:** Olink PEA, SomaScan, Metabolon, IonS5, Illumina, 10x
 - **Omics:**: Genomics (STRP, microarrays, WGS, WES), Transcriptomics (Bulk RNA-Seq, scRNA-Seq), Proteomics, Metabolomics
-- **Integration:** WGCNA, MEGENA, network-based approaches
-- **Analysis:** Proteomics, transcriptomics, metabolomics, spatial omics
+- **Integration:** WGCNA, MEGENA, MOFA, DIABLO, network-based approaches
+- **Analysis:** Bioinformatics, Biostatistics
 
 ### 🧠 Neuroscience & Clinical Research  
-- **Methods:** EEG/ERP, MRI, digital biomarkers, neurophysiology
+- **Methods:** Neurophysiology: EEG/ERP, (f)MRI, eye movements, digital biomarkers
+- **Behavioral:** Psychometrics, assessment and test development, intelligence, decision making
 - **Diseases:** ALS, Alzheimer's, Parkinson's/LBD, MS, neuropsychiatric and neurodevelopmental disorders, Metabolic Syndrome
 - **Translation:** Biomarker validation, patient stratification, clinical trial design
 
 ### 💊 Drug Development
-- **Discovery:** Target identification, MoA characterization
-- **Clinical:** Trial design, biomarker strategy, regulatory documentation
-- **Analytics:** Machine learning, causal inference, longitudinal modeling
+- **Discovery:** Target identification, MoA characterization, A.I.-enabled discovery (e.g., PandaOmics)
+- **Clinical:** RCT & trial design, biomarker strategy, regulatory documentation, CDISC foundational standards
+- **Analytics:** Power analysis, biostatistics, machine learning, causal inference, longitudinal modeling, RWE
 
 ### 💻 Technical Stack
 `R (Expert)` `Python` `SQL` `AWS/GCP` `Docker` `Shiny` `Statistical Modeling` `Machine Learning`
@@ -41,7 +42,7 @@ Translational scientist bridging computational approaches with biological unders
 
 ## Current Projects
 
-🔬 **Metabolic Therapy Platform** - Leading translational strategy for neurodegenerative applications  
+🔬 **Metabolic Therapy Platform** - Guiding translational strategy for neurodegenerative applications  
 📊 **Multi-Omic Biomarker Suite** - Developing integrated biomarkers for disease progression  
 🤖 **ML Pipeline Development** - Building scalable analysis pipelines for clinical data
 
@@ -67,7 +68,7 @@ Translational scientist bridging computational approaches with biological unders
 **Statistical Geneticist** | Arivale Inc (2018-2019)  
 **Research Assistant Professor** | University of Houston (2017-2018)
 
-**Education:** PhD Experimental Psychology (UConn) | PhD Psychometrics (Moscow State University)  
+**Education:** PhD Experimental Psychology (UConn) | PhD Educational Psychology (Moscow State University)  
 **Training:** Duncan Scholar, Baylor College of Medicine | Postdoc, Yale School of Medicine
 **Awards:** Outstanding Doctoral Dissertation in Developmental Science (Society for Research in Child Development), GoldenHelix Award for Best Research, Isabelle Libermann award. 
 
