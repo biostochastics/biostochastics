@@ -10,21 +10,21 @@
 
 ## About
 
-Translational scientist bridging computational approaches with biological understanding to accelerate therapeutic development. Currently directing translational strategy for neurodegenerative disease technologies (ALS, Alzheimer's, PD/LBD, MS) with 15+ years experience in research and industry-facing R&D, including multi-omic integration, biomarker discovery, and clinical trial design.
+Translational scientist bridging computational approaches with biological understanding to accelerate therapeutic development. Currently guiding translational strategy for neurodegenerative diseases (ALS, Alzheimer's, PD/LBD, MS) with 15+ years experience in research and industry-facing R&D, including multi-omic integration, biomarker discovery, and clinical trial design.
 
-**Current Focus:** Metabolic interventions in neurodegeneration | Multi-omic biomarker validation | Translational study design
+**Current Focus:** Metabolic interventions in neurodegeneration | Multi-omic biomarker validation | Translational study design | A.I. in precision medicine
 
 ---
 
 ## Core Expertise
 
-### 🧬 Multi-Omics & Systems Biology
+### 🧬 Multi-Omics & Computational Systems Biology
 - **Platforms:** Olink PEA, SomaScan, Metabolon, IonS5, Illumina, 10x
-- **Omics:**: Genomics (STRP, microarrays, WGS, WES), Transcriptomics (Bulk RNA-Seq, scRNA-Seq), Proteomics, Metabolomics
-- **Integration:** WGCNA, MEGENA, MOFA, DIABLO, network-based approaches
-- **Analysis:** Bioinformatics, Biostatistics
+- **Omics:**: Genomics (STRP, microarrays, WGS, WES), transcriptomics (bulk RNA-Seq, scRNA-Seq), proteomics, metabolomics
+- **Analysis:** Bioinformatics, biostatistics,  simulation-based and patient-centered approaches (e.g., Latent Class Analysis)
+- **Integration:** WGCNA, MEGENA, MOFA/MEFISTO, DIABLO, biclustering, network-based approaches
 
-### 🧠 Neuroscience & Clinical Research  
+### 🧠 Clinical Research & Neuroscience
 - **Methods:** Neurophysiology: EEG/ERP, (f)MRI, eye movements, digital biomarkers
 - **Behavioral:** Psychometrics, assessment and test development, intelligence, decision making
 - **Diseases:** ALS, Alzheimer's, Parkinson's/LBD, MS, neuropsychiatric and neurodevelopmental disorders, Metabolic Syndrome
@@ -34,6 +34,8 @@ Translational scientist bridging computational approaches with biological unders
 - **Discovery:** Target identification, MoA characterization, A.I.-enabled discovery (e.g., PandaOmics)
 - **Clinical:** RCT & trial design, biomarker strategy, regulatory documentation, CDISC foundational standards
 - **Analytics:** Power analysis, biostatistics, machine learning, causal inference, longitudinal modeling, RWE
+- **Indication prioritization** 
+
 
 ### 💻 Technical Stack
 `R (Expert)` `Python` `SQL` `AWS/GCP` `Docker` `Shiny` `Statistical Modeling` `Machine Learning`
@@ -69,7 +71,7 @@ Translational scientist bridging computational approaches with biological unders
 **Research Assistant Professor** | University of Houston (2017-2018)
 
 **Education:** PhD Experimental Psychology (UConn) | PhD Educational Psychology (Moscow State University)  
-**Training:** Duncan Scholar, Baylor College of Medicine | Postdoc, Yale School of Medicine
+**Training:** Duncan Scholar, Baylor College of Medicine | Post-doc, Yale School of Medicine
 **Awards:** Outstanding Doctoral Dissertation in Developmental Science (Society for Research in Child Development), GoldenHelix Award for Best Research, Isabelle Libermann award. 
 
 ---
