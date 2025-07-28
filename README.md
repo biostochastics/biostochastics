@@ -1,6 +1,6 @@
 # Sergey A. Kornilov, PhD
 
-**Translational Science | Multi-Omics | Drug Discovery | Computational and Systems Biology | Machine Learning | Cognition | Neurodegeneration**
+**Translational Science | Multi-Omics | Drug Discovery | Computational and Systems Biology | Machine Learning | A.I. | Behavioral Science | Language & Cognition | Psychometrics | Neurodevelopment | Neurodegeneration**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kornilov/)
 [![Email](https://img.shields.io/badge/Email-sergey@kornilov.bio-00C300?style=flat&logo=mail.ru&logoColor=white)](mailto:sergey@kornilov.bio)
@@ -25,7 +25,7 @@ Translational scientist bridging computational approaches with biological unders
 - **Integration:** WGCNA, MEGENA, MOFA/MEFISTO, DIABLO, biclustering, network-based approaches
 
 ### 🧠 Clinical Research & Neuroscience
-- **Methods:** Neurophysiology: EEG/ERP, (f)MRI, eye movements, digital biomarkers
+- **Methods:** Neurophysiology: EEG/ERP, (f)MRI, eye movements, digital biomarkers, observational and experimental study ndesign
 - **Behavioral:** Psychometrics, assessment and test development, intelligence, decision making
 - **Diseases:** ALS, Alzheimer's, Parkinson's/LBD, MS, neuropsychiatric and neurodevelopmental disorders, Metabolic Syndrome
 - **Translation:** Biomarker validation, patient stratification, clinical trial design
