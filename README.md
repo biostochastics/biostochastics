@@ -1,6 +1,6 @@
 # Sergey A. Kornilov, PhD
 
-**Translational Science | Multi-Omics | Drug Discovery | Computational and Systems Biology | Machine Learning | A.I. | Behavioral Science | Language & Cognition | Psychometrics | Neurodevelopment | Neurodegeneration**
+**Translational Science | Multi-Omics | Computational and Systems Biology | Clinical Trials | Machine Learning | A.I. | Behavioral Science | Language & Cognition | Psychometrics | Neurodevelopment | Neurodegeneration**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kornilov/)
 [![Email](https://img.shields.io/badge/Email-sergey@kornilov.bio-00C300?style=flat&logo=mail.ru&logoColor=white)](mailto:sergey@kornilov.bio)
