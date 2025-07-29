@@ -79,11 +79,13 @@ Translational scientist bridging computational approaches with biological unders
 ## Let's Collaborate
 
 Open to partnerships in:
+- Applications of A.I. in healthcare and biotech
+- Computational tools for drug development
+- Multi-omic biomarker discovery
 - Neurodegenerative disease therapeutics
 - Metabolic and multi-omic studies
-- Multi-omic biomarker discovery
 - Clinical trial design with novel endpoints
-- Computational tools for drug development
+- Psychiatric disorders therapeutics
 
 📧 **Contact:** sergey@kornilov.bio | [LinkedIn](https://www.linkedin.com/in/sergey-kornilov/)
 
