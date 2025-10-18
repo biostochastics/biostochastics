@@ -3,7 +3,7 @@
 **Biomarker Validation & Trial Design Consulting | Translational Multi-Omics | Neurodegeneration & Metabolic Disease | Systems Biology | Behavioral Science | Machine Learning & A.I.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kornilov/)
-[![Website](https://img.shields.io/badge/Consulting-biostochastics.com-2563eb?style=flat&logo=safari&logoColor=white)](https://biostochastics.com)
+[![Website](https://img.shields.io/badge/Consulting-kornilov.bio-2563eb?style=flat&logo=safari&logoColor=white)](https://kornilov.bio)
 [![Email](https://img.shields.io/badge/Email-sergey.kornilov@biostochastics.com-00C300?style=flat&logo=mail.ru&logoColor=white)](mailto:sergey.kornilov@biostochastics.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=xmwBz9EAAAAJ&hl=en)
 
