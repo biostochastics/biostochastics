@@ -14,8 +14,11 @@
 Independent consultant specializing in biomarker validation and clinical trial design for neurodegenerative disease, metabolic disease, and digital health programs. I focus on preventing costly failures by identifying confounding vulnerabilities and methodological flaws before trials enroll or studies publish.
 
 **15+ years:** Multi-omic integration, translational neuroscience, clinical trial and observational study design, deep expertise in longitudinal studies
+
 **Former:** Senior Research Scientist, Institute for Systems Biology (ISB; worked with Lee Hood and Mary Brunkow); Assistant Professor, University of Houston
+
 **Editor:** Academia Neuroscience & Brain Research  
+
 **Track record:** 65+ publications, $5M+ grant funding, $1.5M industry revenue
 
 **Current focus:** Independent methodology validation | Biomarker platform assessment | Trial design audits | Investor due diligence | Translational program development
