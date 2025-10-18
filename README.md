@@ -109,7 +109,7 @@ All consulting projects deliver:
 
 ## Professional Background
 
-**Founder & Principal** | Biostochastics LLC (2023-Present)  
+**Founder & Principal** | Biostochastics LLC (2024-Present)  
 *Independent biomarker validation and trial design consulting*
 
 **Senior Research Scientist** | Institute for Systems Biology (2019-2024)  
