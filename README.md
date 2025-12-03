@@ -11,7 +11,7 @@
 
 ## About
 
-Independent consultant specializing in biomarker validation and clinical trial design for neurodegenerative disease, metabolic disease, and digital health programs. I focus on preventing costly failures by identifying confounding vulnerabilities and methodological flaws before trials enroll or studies publish.
+Transdisciplinary scientist specializing in preclinical program development, biomarker validation, and clinical trial design for neurodegenerative disease, metabolic disease, and digital health programs. I focus on preventing costly failures by identifying confounding vulnerabilities and methodological flaws before trials enroll or studies publish.
 
 **15+ years:** Multi-omic integration, translational neuroscience, clinical trial and observational study design, deep expertise in longitudinal studies
 
