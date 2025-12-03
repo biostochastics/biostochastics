@@ -15,7 +15,7 @@ Transdisciplinary scientist specializing in preclinical program development, bio
 
 **15+ years:** Multi-omic integration, translational neuroscience, clinical trial and observational study design, deep expertise in longitudinal studies
 
-**Former:** Senior Research Scientist, Institute for Systems Biology (ISB; worked with Lee Hood and Mary Brunkow); Assistant Professor, University of Houston
+**Former:** Senior Research Scientist, Institute for Systems Biology (ISB; worked with Lee Hood and Mary Brunkow); Assistant Professor, University of Houston; Post-doc, Yale School of Medicine; Duncan Scholar in Human & Molecular Genetics, Baylor College of Medicine
 
 **Editor:** Academia Neuroscience & Brain Research  
 
