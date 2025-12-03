@@ -32,22 +32,9 @@ Available for:
 - 📋 **Trial design & protocol review** (endpoint validation, power analysis, regulatory risk)
 - 🧪 **Preclinical program guidance** (IND-enabling strategy, translational planning)
 - 💼 **Investor due diligence** (technical validation for biotech deals)
+- 🧬 **Omics integration** (across modalities, tissues)
+- 💊�**ML/AI in Drug & Biomarker discovery**
 - 🏥 **Digital health & diagnostic validation** (algorithm validation, real-world performance)
-
----
-
-## Recent Work
-
-### 📊 Nature Medicine ALS Biomarker Reanalysis (2025)
-
-Independent methodological investigation revealing severe confounding in high-profile proteomics study:
-- **72%** of published biomarkers failed geographic validation
-- **99.9%** accuracy predicting technical artifacts (tube type) vs. disease
-- **$15M+** estimated preventable follow-up costs
-
-**Key finding:** Perfect confounding between diagnostic groups and technical factors created models learning artifacts instead of biology. Standard validation (98% pooled CV accuracy) missed this; geographic validation revealed deployment failure (77% AUC cross-site).
-
-[**📄 Read full technical report with reproducible analysis →**](https://biostochastics.quarto.pub/confounding-by-geography-and-anticoagulant-compromise-proposed-als-model/)
 
 ---
 
