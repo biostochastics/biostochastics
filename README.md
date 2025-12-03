@@ -77,8 +77,6 @@ All consulting projects deliver:
 **65+ peer-reviewed publications** | [Full list on Google Scholar](https://scholar.google.com/citations?user=xmwBz9EAAAAJ&hl=en)
 
 **Recent highlights:**
-
-- **Kornilov, S.** (2025). Confounding by geography and anticoagulant compromises proposed ALS diagnostic model and biomarkers: Reanalysis of Chia et al. (2025). *Technical Report*. [Link](https://biostochastics.quarto.pub/confounding-by-geography-and-anticoagulant-compromise-proposed-als-model/)
   
 - **Kornilov, S.** (2025). When Algorithms Learn to Discriminate. *Tech Policy Press*, [Link](https://www.techpolicy.press/when-algorithms-learn-to-discriminate-the-hidden-crisis-of-emergent-ableism/
 
