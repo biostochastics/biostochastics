@@ -1,5 +1,7 @@
 # Sergey A. Kornilov, PhD
 
+**We are all Kosh.**
+
 **Biomarker Validation & Trial Design Consulting | Translational Multi-Omics | Neurodegeneration & Metabolic Disease | Systems Biology | Behavioral Science | Machine Learning & A.I.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-kornilov/)
