@@ -27,7 +27,7 @@ Transdisciplinary scientist specializing in preclinical program development, bio
 
 ---
 
-## Consulting Services
+## Advisory & Consulting Services
 
 Available for:
 - 🔬 **Biomarker validation audits** (multi-site study review, confounding detection)
@@ -53,13 +53,13 @@ Available for:
 - **Neurophysiology:** EEG/ERP, fMRI, eye tracking, digital biomarkers
 
 ### 💊 Drug Development & Regulatory
-- **Clinical:** Trial design (Phase 1/2), endpoint selection, power analysis, CDISC standards
+- **Clinical:** Trial design (Phase I/II), endpoint selection, power analysis, CDISC standards
 - **Discovery:** Target ID, MoA characterization, AI-enabled discovery
 - **Regulatory:** IND-enabling studies, FDA submission strategy, biomarker qualification
 
 ### 💻 Technical Stack
-- **Languages:** R (expert), Python, SQL, Stan
-- **ML/Stats:** Statistical modeling, causal inference, longitudinal analysis, Bayesian methods
+- **Languages:** R (expert), Python, SQL
+- **ML/Stats:** Multivariate biomarker discovery, statistical modeling, causal inference, longitudinal analysis, Bayesian methods
 - **Infrastructure:** AWS/GCP, Docker, Shiny, reproducible pipelines (`targets`, `renv`)
 - **Specialties:** Confounding detection, batch effect quantification, cross-site validation
 
@@ -70,7 +70,7 @@ Available for:
 All consulting projects deliver:
 - Reproducible analysis code (R/Python, version-controlled)
 - Transparent statistical frameworks
-- Documented methodology with validation tests
+- Documented methodology
 
 ---
 
@@ -97,13 +97,13 @@ All consulting projects deliver:
 ## Professional Background
 
 **Founder & Principal** | Biostochastics LLC (2024-Present)  
-*Independent biomarker validation and trial design consulting*
+*Advisory, independent biomarker validation and trial design, portfolio company support*
 
 **Senior Research Scientist** | Institute for Systems Biology (2019-2024)  
 *Multi-omic studies, clinical collaborations (Bryleos, Genentech, Gilead, Thorne, Sanitarium)*
 
 **Statistical Geneticist** | Arivale Inc (2018-2019)  
-*Precision wellness platform, longitudinal multi-omic analysis*
+*Precision wellness platform, longitudinal multi-omic analysis, DTC genetic insights (polygenic scores)*
 
 **Research Assistant Professor** | University of Houston (2017-2018)
 
