@@ -140,7 +140,7 @@ All consulting projects deliver:
 - Digital biomarker validation
 - Regulatory pathway assessment
 
-📧 **Contact:** [sergey.kornilov@biostochastics.com](mailto:sergey.kornilov@biostochastics.com)  
+📧 **Contact:** [sergey@biostochastics.com](mailto:sergey@biostochastics.com)  
 💼 **LinkedIn:** [linkedin.com/in/sergey-kornilov](https://www.linkedin.com/in/sergey-kornilov/)
 
 ---
