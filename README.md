@@ -1,12 +1,12 @@
 # Sergey A. Kornilov, PhD
 
-Computational and translational scientist. I build analytical systems for biomarker-driven programs — the kind where getting the measurement wrong costs years and millions.
+Computational and translational scientist. I build analytical systems for biomarker-driven programs — the kind where getting the measurement wrong costs years and millions. 
 
 ## What I Care About
 
 **Measurement.** Before any pipeline, model, or p-value: what are we actually quantifying, and does the assay do what we think it does? Fifteen years across psychometrics, neurophysiology, and molecular biology taught me that most analytical failures trace back to unstated measurement assumptions.
 
-**Reproducibility is a design choice, not a post-hoc virtue.** Version-controlled pipelines, containerized environments, documented analytical decisions. If you can't hand your analysis to a skeptic and have it run, it isn't finished.
+**Reproducibility as a design choice.** Version-controlled pipelines, containerized environments, documented analytical decisions. If you can't hand your analysis to a skeptic and have it run, it isn't finished.
 
 **Integration.** Multi-omic data is only useful when the biology connects. Network context, pathway logic, and mechanism (no offense to concatenated feature matrices).
 
