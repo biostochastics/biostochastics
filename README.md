@@ -1,6 +1,6 @@
 # Sergey A. Kornilov, PhD
 
-Computational and translational scientist. I build analytical systems for biomarker-driven programs — the kind where getting the measurement wrong costs years and millions. 
+Computational and translational scientist. I build analytical systems for biomarker-driven programs. 
 
 ## What I Care About
 
