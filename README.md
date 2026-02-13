@@ -4,11 +4,11 @@ Computational and translational scientist. I build analytical systems for biomar
 
 ## What I Care About
 
-**Measurement.** Before any pipeline, model, or p-value: what are we actually quantifying, and does the assay do what we think it does? Fifteen years across psychometrics, neurophysiology, and molecular biology taught me that most analytical failures trace back to unstated measurement assumptions.
+**Measurement.** 
 
-**Reproducibility as a design choice.** Version-controlled pipelines, containerized environments, documented analytical decisions. If you can't hand your analysis to a skeptic and have it run, it isn't finished.
+**Reproducibility.** 
 
-**Integration.** Multi-omic data is only useful when the biology connects. Network context, pathway logic, and mechanism (no offense to concatenated feature matrices).
+**Integration.** 
 
 ## What's Here
 
@@ -16,7 +16,7 @@ Most of my work lives in private repositories (client work, pre-publication rese
 
 ## Stack
 
-`R` · `Python` · `SQL` · `Docker` · `AWS/GCP` · `Snakemake` · `targets` · `Shiny` · `Quarto`
+`R` · `Python` · `SQL` · `Docker` · `AWS/GCP` · `Snakemake` · `targets` · `Shiny` · `Quarto` · `Typst`
 
 Platforms: Olink PEA · SomaScan · Metabolon · RNA-Seq (bulk/scRNA) · WGS/WES· UHPLC-LC/MS
 
